@@ -7,6 +7,7 @@ Simple react seed for tired
 you should open two terminals to run webpack and server
 
 ```command
+> git clone https://github.com/madeinfree/react-seed.git
 > npm install or yarn
 > npm start
 > npm run webpack
